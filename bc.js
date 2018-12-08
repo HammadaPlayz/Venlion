@@ -271,4 +271,4 @@ m.send({ embed: bc })
 
 
 
-client.login("NTIwNjEzNTcyNTY1MjcwNTU4.DuwawA.M_V79Us6Wq6ZOK7tfYP5Dqymk5k");
+client.login("process.env.BOT_TOKEN");
